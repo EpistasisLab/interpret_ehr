@@ -1,0 +1,144 @@
+code	name	short.unique.name	short.name	shorter.name	abbrevs
+718-7	Hemoglobin [Mass/volume] in Blood	Hemoglobin in Blood	Hemoglobin 	Hemoglobin 	HMviB
+4544-3	Hematocrit [Volume Fraction] of Blood by Automated count	Hematocrit by Automated count	Hematocrit 	Hematocrit 	HVFoBbAc
+787-2	Erythrocyte mean corpuscular volume [Entitic volume] by Automated count	Erythrocyte mean corpuscular volume	Erythrocyte mean corpuscular volume 	Erythrocyte mean	EmcvEvbAc
+786-4	Erythrocyte mean corpuscular hemoglobin concentration [Mass/volume] by Automated count	Mean corpuscular hemoglobin concentration 	Erythrocyte mean corpuscular hemoglobin concentration 	Erythrocyte mean	EmchcMvbAc
+785-6	Erythrocyte mean corpuscular hemoglobin [Entitic mass] by Automated count	Erythrocyte mean corpuscular hemoglobin	Erythrocyte mean corpuscular hemoglobin 	Erythrocyte mean	EmchEmbAc
+6690-2	Leukocytes [#/volume] in Blood by Automated count	Leukocytes [#/volume] in Blood 	Leukocytes 	Leukocytes 	LviBbAc
+789-8	Erythrocytes [#/volume] in Blood by Automated count	Erythrocytes [#/volume] in Blood	Erythrocytes 	Erythrocytes 	EviBbAc
+788-0	Erythrocyte distribution width [Ratio] by Automated count	Erythrocyte distribution width 	Erythrocyte distribution width 	Erythrocyte distribution	EdwRbAc
+32623-1	Platelet mean volume [Entitic volume] in Blood by Automated count	Platelet mean volume 	Platelet mean volume 	Platelet mean	PmvEviBbAc
+777-3	Platelets [#/volume] in Blood by Automated count	Platelets [#/volume] in Blood 	Platelets 	Platelets 	PviBbAc
+2345-7	Glucose [Mass/volume] in Serum or Plasma	Glucose [Mass/volume] in Serum or Plasma	Glucose 	Glucose 	GMviSoP
+2160-0	Creatinine [Mass/volume] in Serum or Plasma	Creatinine [Mass/volume] in Serum or Plasma	Creatinine 	Creatinine 	CrtnMviSoP
+2823-3	Potassium [Moles/volume] in Serum or Plasma	Potassium [Moles/volume] in Serum or Plasma	Potassium 	Potassium 	PtMviSoP
+3094-0	Urea nitrogen [Mass/volume] in Serum or Plasma	Urea nitrogen [Mass/volume] in Serum or Plasma	Urea nitrogen 	Urea nitrogen	UnMviSoP
+2951-2	Sodium [Moles/volume] in Serum or Plasma	Sodium [Moles/volume] in Serum or Plasma	Sodium 	Sodium 	SMviSoP
+2075-0	Chloride [Moles/volume] in Serum or Plasma	Chloride [Moles/volume] in Serum or Plasma	Chloride 	Chloride 	ChlrMviSoP
+2028-9	Carbon dioxide, total [Moles/volume] in Serum or Plasma	Carbon dioxide [Moles/volume] in Serum or Plasma	Carbon dioxide	Carbon dioxide	CdtMviSoP
+17861-6	Calcium [Mass/volume] in Serum or Plasma	Calcium [Mass/volume] in Serum or Plasma	Calcium 	Calcium 	ClcmMviSoP
+1743-4	Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P	Alanine aminotransferase [Enzymatic activity/volume] 	Alanine aminotransferase 	Alanine aminotransferase	AlaEaviSoPbWP5P
+30239-8	Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P	Aspartate aminotransferase [Enzymatic activity/volume]	Aspartate aminotransferase 	Aspartate aminotransferase	AsaEaviSoPbWP5P
+1975-2	Bilirubin.total [Mass/volume] in Serum or Plasma	Bilirubin.total [Mass/volume] in Serum or Plasma	Bilirubin	Bilirubin	BtMviSoP
+2885-2	Protein [Mass/volume] in Serum or Plasma	Protein [Mass/volume] in Serum or Plasma	Protein 	Protein 	PrtMviSoP
+10466-1	Anion gap 3 in Serum or Plasma	Anion gap 3 in Serum or Plasma	Anion gap 3 in Serum or Plasma	Anion gap	Ag3iSoP
+751-8	Neutrophils [#/volume] in Blood by Automated count	Neutrophils [#/volume] in Blood by Automated count	Neutrophils 	Neutrophils 	NviBbAc
+2093-3	Cholesterol [Mass/volume] in Serum or Plasma	Cholesterol [Mass/volume] in Serum or Plasma	Cholesterol 	Cholesterol 	ChlsMviSoP
+2571-8	Triglyceride [Mass/volume] in Serum or Plasma	Triglyceride [Mass/volume] in Serum or Plasma	Triglyceride 	Triglyceride 	TrMviSoP
+2085-9	Cholesterol in HDL [Mass/volume] in Serum or Plasma	Cholesterol in HDL [Mass/volume] in Serum or Plasma	Cholesterol in HDL 	Cholesterol in	CiHMviSoP
+13457-7	Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation	Cholesterol in LDL [Mass/volume] by calculation	Cholesterol in LDL 	Cholesterol in	CiLMviSoPbc
+2965-2	Specific gravity of Urine	Specific gravity of Urine	Specific gravity of Urine	Specific gravity	SgoU
+1968-7	Bilirubin.direct [Mass/volume] in Serum or Plasma	Bilirubin.direct [Mass/volume] in Serum or Plasma	Bilirubin	Bilirubin	BdMviSoP
+17856-6	Hemoglobin A1c/Hemoglobin.total in Blood by HPLC	Hemoglobin A1c/Hemoglobin.total in Blood by HPLC	Hemoglobin A1c	Hemoglobin A1c	HAHtiBbH
+3024-7	Thyroxine (T4) free [Mass/volume] in Serum or Plasma	Thyroxine (T4) free [Mass/volume] in Serum or Plasma	Thyroxine 	Thyroxine 	TTfMviSoP
+27353-2	Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin	Glucose mean value Estimated from glycated hemoglobin	Glucose mean value 	Glucose mean	GmvMviBEfgh
+2132-9	Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma	Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma	Cobalamin 	Cobalamin 	CVBMviSoP
+18262-6	Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay	Cholesterol in LDL [Mass/volume] by Direct assay	Cholesterol in LDL 	Cholesterol in	CiLMviSoPbDa
+2857-1	Prostate specific Ag [Mass/volume] in Serum or Plasma	Prostate specific Ag [Mass/volume] in Serum or Plasma	Prostate specific Ag 	Prostate specific	PsAMviSoP
+2498-4	Iron [Mass/volume] in Serum or Plasma	Iron [Mass/volume] in Serum or Plasma	Iron 	Iron 	IrMviSoP
+2276-4	Ferritin [Mass/volume] in Serum or Plasma	Ferritin [Mass/volume] in Serum or Plasma	Ferritin 	Ferritin 	FrMviSoP
+2501-5	Iron binding capacity.unsaturated [Mass/volume] in Serum or Plasma	Iron binding capacity.unsaturated [Mass/volume]	Iron binding capacity	Iron binding	IbcuMviSoP
+2157-6	Creatine kinase [Enzymatic activity/volume] in Serum or Plasma	Creatine kinase [Enzymatic activity/volume] 	Creatine kinase 	Creatine kinase	CkEaviSoP
+2777-1	Phosphate [Mass/volume] in Serum or Plasma	Phosphate [Mass/volume] in Serum or Plasma	Phosphate 	Phosphate 	PhMviSoP
+14959-1	Microalbumin/Creatinine [Mass Ratio] in Urine	Microalbumin/Creatinine [Mass Ratio] in Urine	Microalbumin	Microalbumin	MCMRiU
+14957-5	Microalbumin [Mass/volume] in Urine	Microalbumin [Mass/volume] in Urine	Microalbumin 	Microalbumin 	MMviU
+3084-1	Urate [Mass/volume] in Serum or Plasma	Urate [Mass/volume] in Serum or Plasma	Urate 	Urate 	UMviSoP
+3040-3	Lipase [Enzymatic activity/volume] in Serum or Plasma	Lipase [Enzymatic activity/volume] in Serum or Plasma	Lipase 	Lipase 	LEaviSoP
+764-1	Neutrophils.band form/100 leukocytes in Blood by Manual count	Neutrophils.band form/100 leukocytes in Blood 	Neutrophils	Neutrophils	Nbf1liBbMc
+2284-8	Folate [Mass/volume] in Serum or Plasma	Folate [Mass/volume] in Serum or Plasma	Folate 	Folate 	FlMviSoP
+1798-8	Amylase [Enzymatic activity/volume] in Serum or Plasma	Amylase [Enzymatic activity/volume] in Serum or Plasma	Amylase 	Amylase 	AEaviSoP
+11572-5	Rheumatoid factor [Units/volume] in Serum or Plasma	Rheumatoid factor [Units/volume] in Serum or Plasma	Rheumatoid factor 	Rheumatoid factor	RfUviSoP
+763-3	Neutrophils.band form [#/volume] in Blood by Manual count	Neutrophils.band form [#/volume] in Blood by Manual count	Neutrophils	Neutrophils	NbfviBbMc
+3051-0	Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma	Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma	Triiodothyronine 	Triiodothyronine 	TTFMviSoP
+19123-9	Magnesium [Mass/volume] in Serum or Plasma	Magnesium [Mass/volume] in Serum or Plasma	Magnesium 	Magnesium 	MgMviSoP
+14804-9	Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction	Lactate dehydrogenase [Enzymatic activity/volume] 	Lactate dehydrogenase 	Lactate dehydrogenase	LdEaviSoPbLtpr
+2502-3	Iron saturation [Mass Fraction] in Serum or Plasma	Iron saturation [Mass Fraction] in Serum or Plasma	Iron saturation 	Iron saturation	IsMFiSoP
+71695-1	Immature granulocytes/100 leukocytes in Blood by Automated count	Immature granulocytes/100 leukocytes in Blood 	Immature granulocytes	Immature granulocytes	Ig1liBbAc
+2340-8	Glucose [Mass/volume] in Blood by Automated test strip	Glucose [Mass/volume] in Blood by Automated test strip	Glucose 	Glucose 	GMviBbAts
+1988-5	C reactive protein [Mass/volume] in Serum or Plasma	C reactive protein [Mass/volume] in Serum or Plasma	C reactive protein 	C reactive	CrpMviSoP
+53115-2	Immature granulocytes [#/volume] in Blood by Automated count	Immature granulocytes [#/volume] in Blood 	Immature granulocytes 	Immature granulocytes	IgviBbAc
+2731-8	Parathyrin.intact [Mass/volume] in Serum or Plasma	Parathyrin.intact [Mass/volume] in Serum or Plasma	Parathyrin	Parathyrin	PiMviSoP
+2458-8	IgA [Mass/volume] in Serum or Plasma	IgA [Mass/volume] in Serum or Plasma	IgA 	IgA 	IAMviSoP
+20433-9	Follitropin [Units/volume] in Serum or Plasma by 2nd IRP	Follitropin [Units/volume] in Serum or Plasma by 2nd IRP	Follitropin 	Follitropin 	FUviSoPb2I
+72586-1	Beta globulin/Protein.total [Pure mass fraction] in Serum or Plasma by Electrophoresis	Beta globulin/Protein.total [Pure mass fraction] 	Beta globulin	Beta globulin	BgPtPmfiSoPbE
+72598-6	Albumin/Protein.total [Pure mass fraction] in Serum or Plasma by Electrophoresis	Albumin/Protein.total [Pure mass fraction] 	Albumin	Albumin	APtPmfiSoPbE
+72582-0	Gamma globulin/Protein.total [Pure mass fraction] in Serum or Plasma by Electrophoresis	Gamma globulin/Protein.total [Pure mass fraction] 	Gamma globulin	Gamma globulin	GgPtPmfiSoPbE
+2888-6	Protein [Mass/volume] in Urine	Protein [Mass/volume] in Urine	Protein 	Protein 	PMviU
+2986-8	Testosterone [Mass/volume] in Serum or Plasma	Testosterone [Mass/volume] in Serum or Plasma	Testosterone 	Testosterone 	TsMviSoP
+2324-2	Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma	Gamma glutamyl transferase [Enzymatic activity/volume] 	Gamma glutamyl transferase 	Gamma glutamyl	GgtEaviSoP
+13969-1	Creatine kinase.MB [Mass/volume] in Serum or Plasma	Creatine kinase.MB [Mass/volume] in Serum or Plasma	Creatine kinase	Creatine kinase	CkMMviSoP
+10501-5	Lutropin [Units/volume] in Serum or Plasma	Lutropin [Units/volume] in Serum or Plasma	Lutropin 	Lutropin 	LUviSoP
+12187-1	Creatine kinase.MB/Creatine kinase.total in Serum or Plasma by Electrophoresis	Creatine kinase.MB/Creatine kinase.total 	Creatine kinase	Creatine kinase	CkMCktiSoPbE
+20448-7	Insulin [Units/volume] in Serum or Plasma	Insulin [Units/volume] in Serum or Plasma	Insulin 	Insulin 	IUviSoP
+11580-8	Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L	Thyrotropin [Units/volume]	Thyrotropin 	Thyrotropin 	TUviSoPbDl00mL
+2019-8	Carbon dioxide [Partial pressure] in Arterial blood	Carbon dioxide [Partial pressure] in Arterial blood	Carbon dioxide 	Carbon dioxide	CdPpiAb
+2703-7	Oxygen [Partial pressure] in Arterial blood	Oxygen [Partial pressure] in Arterial blood	Oxygen 	Oxygen 	OPpiAb
+2744-1	pH of Arterial blood	pH of Arterial blood	pH of Arterial blood	pH of	poAb
+1990-1	Cholecalciferol (Vit D3) [Mass/volume] in Serum or Plasma	Cholecalciferol (Vit D3) [Mass/volume] in Serum or Plasma	Cholecalciferol 	Cholecalciferol 	CVD3MviSoP
+1989-3	Calcidiol [Mass/volume] in Serum or Plasma	Calcidiol [Mass/volume] in Serum or Plasma	Calcidiol 	Calcidiol 	ClcdMviSoP
+2236-8	Calciferol (Vit D2) [Mass/volume] in Serum or Plasma	Calciferol (Vit D2) [Mass/volume] in Serum or Plasma	Calciferol 	Calciferol 	CVD2MviSoP
+2708-6	Oxygen saturation in Arterial blood	Oxygen saturation in Arterial blood	Oxygen saturation in Arterial blood	Oxygen saturation	OsiAb
+2714-4	Fractional oxyhemoglobin in Arterial blood	Fractional oxyhemoglobin in Arterial blood	Fractional oxyhemoglobin in Arterial blood	Fractional oxyhemoglobin	FoiAb
+1960-4	Bicarbonate [Moles/volume] in Arterial blood	Bicarbonate [Moles/volume] in Arterial blood	Bicarbonate 	Bicarbonate 	BMviAb
+3026-2	Thyroxine (T4) [Mass/volume] in Serum or Plasma	Thyroxine (T4) [Mass/volume] in Serum or Plasma	Thyroxine 	Thyroxine 	TTMviSoP
+28009-9	Volume of Urine	Volume of Urine	Volume of Urine	Volume of	VloU
+2991-8	Testosterone Free [Mass/volume] in Serum or Plasma	Testosterone Free [Mass/volume] in Serum or Plasma	Testosterone Free 	Testosterone Free	TFMviSoP
+2465-3	IgG [Mass/volume] in Serum or Plasma	IgG [Mass/volume] in Serum or Plasma	IgG 	IgG 	IGMviSoP
+740-1	Metamyelocytes/100 leukocytes in Blood by Manual count	Metamyelocytes/100 leukocytes in Blood by Manual count	Metamyelocytes	Metamyelocytes	M1liBbMc
+17849-1	Reticulocytes/100 erythrocytes in Blood by Automated count	Reticulocytes/100 erythrocytes in Blood by Automated count	Reticulocytes	Reticulocytes	R1eiBbAc
+30522-7	C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method	C reactive protein [Mass/volume] 	C reactive protein 	C reactive	CrpMviSoPbHsm
+30934-4	Natriuretic peptide B [Mass/volume] in Serum or Plasma	Natriuretic peptide B [Mass/volume] in Serum or Plasma	Natriuretic peptide B 	Natriuretic peptide	NpBMviSoP
+739-3	Metamyelocytes [#/volume] in Blood by Manual count	Metamyelocytes [#/volume] in Blood by Manual count	Metamyelocytes 	Metamyelocytes 	MtviBbMc
+2472-9	IgM [Mass/volume] in Serum or Plasma	IgM [Mass/volume] in Serum or Plasma	IgM 	IgM 	IMMviSoP
+19994-3	Oxygen/Inspired gas setting [Volume Fraction] Ventilator	Oxygen/Inspired gas setting [Volume Fraction] Ventilator	Oxygen	Oxygen	OIgsVFV
+12180-6	Calcium.ionized [Moles/volume] in Serum or Plasma by Ion-selective membrane electrode (ISE)	Calcium.ionized [Moles/volume] 	Calcium	Calcium	CiMviSoPbIsmeI
+2143-6	Cortisol [Mass/volume] in Serum or Plasma	Cortisol [Mass/volume] in Serum or Plasma	Cortisol 	Cortisol 	CrtsMviSoP
+38483-4	Creatinine [Mass/volume] in Blood	Creatinine [Mass/volume] in Blood	Creatinine 	Creatinine 	CrMviB
+26498-6	Myelocytes/100 leukocytes in Blood	Myelocytes/100 leukocytes in Blood	Myelocytes	Myelocytes	M1liB
+1922-4	Base deficit in Arterial blood	Base deficit in Arterial blood	Base deficit in Arterial blood	Base deficit	BdiAb
+33762-6	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] 	Natriuretic peptide	Natriuretic peptide	NpBpNTMviSoP
+3181-5	Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay	Cardiolipin IgG Ab [Units/volume] 	Cardiolipin IgG Ab 	Cardiolipin IgG	CIGAUviSbI
+3182-3	Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay	Cardiolipin IgM Ab [Units/volume] 	Cardiolipin IgM Ab 	Cardiolipin IgM	CIMAUviSbI
+1925-7	Base excess in Arterial blood by calculation	Base excess in Arterial blood by calculation	Base excess in Arterial blood by calculation	Base excess	BeiAbbc
+748-4	Myelocytes [#/volume] in Blood by Manual count	Myelocytes [#/volume] in Blood by Manual count	Myelocytes 	Myelocytes 	MyviBbMc
+2069-3	Chloride [Moles/volume] in Blood	Chloride [Moles/volume] in Blood	Chloride 	Chloride 	ChMviB
+13965-9	Homocysteine [Moles/volume] in Serum or Plasma	Homocysteine [Moles/volume] in Serum or Plasma	Homocysteine 	Homocysteine 	HMviSoP
+10535-3	Digoxin [Mass/volume] in Serum or Plasma	Digoxin [Mass/volume] in Serum or Plasma	Digoxin 	Digoxin 	DMviSoP
+2039-6	Carcinoembryonic Ag [Mass/volume] in Serum or Plasma	Carcinoembryonic Ag [Mass/volume] in Serum or Plasma	Carcinoembryonic Ag 	Carcinoembryonic Ag	CAMviSoP
+17820-2	Albumin/Protein.total in Body fluid by Electrophoresis	Albumin/Protein.total in Body fluid by Electrophoresis	Albumin	Albumin	APtiBfbE
+13982-4	Beta globulin/Protein.total in Serum or Plasma by Electrophoresis	Beta globulin/Protein.total in Serum or Plasma	Beta globulin	Beta globulin	BgPtiSoPbE
+2243-4	Estradiol (E2) [Mass/volume] in Serum or Plasma	Estradiol (E2) [Mass/volume] in Serum or Plasma	Estradiol 	Estradiol 	EEMviSoP
+13967-5	Sex hormone binding globulin [Moles/volume] in Serum or Plasma	Sex hormone binding globulin [Moles/volume] 	Sex hormone binding globulin 	Sex hormone	ShbgMviSoP
+20565-8	Carbon dioxide, total [Moles/volume] in Blood	Carbon dioxide, total [Moles/volume] in Blood	Carbon dioxide	Carbon dioxide	CdtMviB
+2990-0	Testosterone.free+weakly bound [Mass/volume] in Serum or Plasma	Testosterone.free+weakly bound [Mass/volume] 	Testosterone	Testosterone	TfwbMviSoP
+14338-8	Prealbumin [Mass/volume] in Serum or Plasma	Prealbumin [Mass/volume] in Serum or Plasma	Prealbumin 	Prealbumin 	PrlMviSoP
+2339-0	Glucose [Mass/volume] in Blood	Glucose [Mass/volume] in Blood	Glucose 	Glucose 	GMviB
+2889-4	Protein [Mass/time] in 24 hour Urine	Protein [Mass/time] in 24 hour Urine	Protein 	Protein 	PMti2hU
+2839-9	Progesterone [Mass/volume] in Serum or Plasma	Progesterone [Mass/volume] in Serum or Plasma	Progesterone 	Progesterone 	PrgMviSoP
+5206-8	Herpes simplex virus 1 IgG Ab [Units/volume] in Serum by Immunoassay	Herpes simplex virus 1 IgG Ab [Units/volume] 	Herpes simplex virus 1 IgG Ab 	Herpes simplex	Hsv1IAUviSbI
+29958-6	Ribonucleoprotein extractable nuclear IgG Ab [Units/volume] in Serum by Immunoassay	Ribonucleoprotein extractable nuclear IgG Ab [Units/volume] 	Ribonucleoprotein extractable nuclear IgG Ab 	Ribonucleoprotein extractable	RenIAUviSbI
+10334-1	Cancer Ag 125 [Units/volume] in Serum or Plasma	Cancer Ag 125 [Units/volume] in Serum or Plasma	Cancer Ag 125 	Cancer Ag	CA1UviSoP
+20438-8	Glucose [Mass/volume] in Serum or Plasma --1 hour post dose glucose	Glucose [Mass/volume] 1 hour post dose glucose	Glucose 	Glucose 	GMviSoP1hpdg
+20436-2	Glucose [Mass/volume] in Serum or Plasma --2 hours post dose glucose	Glucose [Mass/volume] 2 hours post dose glucose	Glucose 	Glucose 	GMviSoP2hpdg
+1834-1	Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma	Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma	Alpha	Alpha	A1FMviSoP
+20437-0	Glucose [Mass/volume] in Serum or Plasma --3 hours post dose glucose	Glucose [Mass/volume] 3 hours post dose glucose	Glucose 	Glucose 	GMviSoP3hpdg
+23860-0	Erythrocytes [#/volume] in Body fluid by Automated count	Erythrocytes [#/volume] in Body fluid by Automated count	Erythrocytes 	Erythrocytes 	EviBfbAc
+21198-7	Choriogonadotropin.beta subunit [Units/volume] in Serum or Plasma	Choriogonadotropin.beta subunit [Units/volume] 	Choriogonadotropin	Choriogonadotropin	CbsUviSoP
+27822-6	Protein S actual/normal in Platelet poor plasma by Coagulation assay	Protein S actual/normal in Platelet poor plasma 	Protein S actual	Protein S	PSaniPppbCa
+27818-4	Protein C actual/normal in Platelet poor plasma by Chromogenic method	Protein C actual/normal in Platelet poor plasma 	Protein C actual	Protein C	PCaniPppbCm
+6303-2	dRVVT (LA screen)	dRVVT (LA screen)	dRVVT 	dRVVT 	dRLs
+27811-9	Antithrombin actual/normal in Platelet poor plasma by Chromogenic method	Antithrombin actual/normal in Platelet poor plasma	Antithrombin actual	Antithrombin actual	AaniPppbCm
+13964-2	Methylmalonate [Moles/volume] in Serum or Plasma	Methylmalonate [Moles/volume] in Serum or Plasma	Methylmalonate 	Methylmalonate 	MtMviSoP
+3255-7	Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay	Fibrinogen [Mass/volume] in Platelet poor plasma 	Fibrinogen 	Fibrinogen 	FMviPppbCa
+2064-4	Ceruloplasmin [Mass/volume] in Serum or Plasma	Ceruloplasmin [Mass/volume] in Serum or Plasma	Ceruloplasmin 	Ceruloplasmin 	CrlMviSoP
+20563-3	Carboxyhemoglobin/Hemoglobin.total in Blood	Carboxyhemoglobin/Hemoglobin.total in Blood	Carboxyhemoglobin	Carboxyhemoglobin	CHtiB
+17862-4	Calcium [Mass/volume] in Urine	Calcium [Mass/volume] in Urine	Calcium 	Calcium 	CMviU
+1825-9	Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma	Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma	Alpha 1 antitrypsin 	Alpha 1	A1aMviSoP
+10330-9	Monocytes/100 leukocytes in Body fluid by Manual count	Monocytes/100 leukocytes in Body fluid by Manual count	Monocytes	Monocytes	M1liBfbMc
+10886-0	Prostate Specific Ag Free [Mass/volume] in Serum or Plasma	Prostate Specific Ag Free [Mass/volume] in Serum or Plasma	Prostate Specific Ag Free 	Prostate Specific	PSAFMviSoP
+2742-5	Angiotensin converting enzyme [Enzymatic activity/volume] in Serum or Plasma	Angiotensin converting enzyme [Enzymatic activity/volume] 	Angiotensin converting enzyme 	Angiotensin converting	AceEaviSoP
+1986-9	C peptide [Mass/volume] in Serum or Plasma	C peptide [Mass/volume] in Serum or Plasma	C peptide 	C peptide	CpMviSoP
+12841-3	Prostate Specific Ag Free/Prostate specific Ag.total in Serum or Plasma	Prostate Specific Ag Free/Prostate specific Ag.total 	Prostate Specific Ag Free	Prostate Specific	PSAFPsAtiSoP
+3167-4	Volume of 24 hour Urine	Volume of 24 hour Urine	Volume of 24 hour Urine	Volume of	Vo2hU
+2614-6	Methemoglobin/Hemoglobin.total in Blood	Methemoglobin/Hemoglobin.total in Blood	Methemoglobin	Methemoglobin	MHtiB
+1763-2	Aldosterone [Mass/volume] in Serum or Plasma	Aldosterone [Mass/volume] in Serum or Plasma	Aldosterone 	Aldosterone 	AMviSoP

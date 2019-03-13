@@ -1,0 +1,28 @@
+Disease,Code
+Diabetes,250.00
+Diabetes with renal manifestations,250.40
+Polycystic ovaries,256.4
+Hyperglyceridemia,272.1
+Hyperlipidemia,272.4
+Hypercalcemia,275.42
+Hyposmolality or hyponatremia,276.1
+Dysmetabolic syndrome X,277.7
+Obesity,278.00
+Anemia,285.9
+Leukocytosis,288.60
+Depressive disorder,311
+Sleep apnea,327.23
+Alzheimer's disease,331.0
+Restless leg,333.94
+Chronic rhinitis,472.0
+Sinusitus,473.9
+Asthma,493.90
+Esophageal reflux,530.81
+Barrett's esophagus,530.85
+IBS,564.1
+Liver disease,571.8
+Kidney disease,585.9
+Myalgia and myositis,729.1
+Osteoporosis,733.00
+Memory loss,780.93
+Heart failure,428.9
